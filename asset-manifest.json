@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hungry-hippos/static/css/main.eb9140b4.chunk.css",
+    "main.js": "/hungry-hippos/static/js/main.5078dacf.chunk.js",
+    "main.js.map": "/hungry-hippos/static/js/main.5078dacf.chunk.js.map",
+    "runtime-main.js": "/hungry-hippos/static/js/runtime-main.ce151797.js",
+    "runtime-main.js.map": "/hungry-hippos/static/js/runtime-main.ce151797.js.map",
+    "static/css/2.51fcc392.chunk.css": "/hungry-hippos/static/css/2.51fcc392.chunk.css",
+    "static/js/2.9c6e2776.chunk.js": "/hungry-hippos/static/js/2.9c6e2776.chunk.js",
+    "static/js/2.9c6e2776.chunk.js.map": "/hungry-hippos/static/js/2.9c6e2776.chunk.js.map",
+    "index.html": "/hungry-hippos/index.html",
+    "precache-manifest.afeb4adde034267215f2fcd89738d970.js": "/hungry-hippos/precache-manifest.afeb4adde034267215f2fcd89738d970.js",
+    "service-worker.js": "/hungry-hippos/service-worker.js",
+    "static/css/2.51fcc392.chunk.css.map": "/hungry-hippos/static/css/2.51fcc392.chunk.css.map",
+    "static/css/main.eb9140b4.chunk.css.map": "/hungry-hippos/static/css/main.eb9140b4.chunk.css.map",
+    "static/js/2.9c6e2776.chunk.js.LICENSE.txt": "/hungry-hippos/static/js/2.9c6e2776.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/hungry-hippos/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce151797.js",
+    "static/css/2.51fcc392.chunk.css",
+    "static/js/2.9c6e2776.chunk.js",
+    "static/css/main.eb9140b4.chunk.css",
+    "static/js/main.5078dacf.chunk.js"
+  ]
+}
